@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingBottomNavBar">
+        <attr name="navBarBackgroundColor" format="color" />
+        <attr name="navBarCornerRadius" format="dimension" />
+        <attr name="navBarElevation" format="dimension" />
+        <attr name="navBarPadding" format="dimension" />
+        <attr name="selectedIconColor" format="color" />
+        <attr name="unselectedIconColor" format="color" />
+        <attr name="selectedIconBackground" format="color" />
+    </declare-styleable>
+</resources>
